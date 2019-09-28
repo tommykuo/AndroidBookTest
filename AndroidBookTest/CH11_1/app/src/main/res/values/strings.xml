@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CH11</string>
+    <string name="tvPtTitle">請按\"Menu\"鈕，啟動功能表</string>
+    <string name="ivContDescc">Photo</string>
+</resources>
